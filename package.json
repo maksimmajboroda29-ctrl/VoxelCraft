@@ -1,0 +1,9 @@
+{
+  "name": "voxelcraft-server",
+  "version": "2.1.0",
+  "description": "WebSocket multiplayer server for VOXELCRAFT (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
